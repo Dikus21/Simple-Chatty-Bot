@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chatty Bot (Java)/*
+!/Simple Chatty Bot (Java)/task/
+/Simple Chatty Bot (Java)/task/*
+!/Simple Chatty Bot (Java)/task/src
+
+# Project exclude paths
+/Topics/Relational operators/Boys in a sport class/out/
+/Topics/Relational operators/Boys in a sport class/out/production/classes/
+/Topics/The for-loop/The product of numbers from a to b/out/
+/Topics/The for-loop/The product of numbers from a to b/out/production/classes/
